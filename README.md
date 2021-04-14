@@ -1,4 +1,4 @@
-# Staking-contracts
+# Liteswap Staking-contracts
 
 ## Description
 
