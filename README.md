@@ -1,4 +1,4 @@
-# Liteswap Staking-contracts
+# Metronotes Staking-contracts
 
 ## Description
 
