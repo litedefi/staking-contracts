@@ -8,7 +8,7 @@ The effort and skill required to optimally stake LDF presents an opportunity for
 
 Users not familliar with LDF ecosystem will have to stake their LDF in one of the deployed pools and the mangers will handle the strategies to optimize the yields.
 
-The pool participants will deposit LDF and receive a pool tokens equivalent to their stake share, after a specific period of time the users will be able to withdrawal their OKS + staking reward by burning the previously minted pool tokens.  
+The pool participants will deposit LDF and receive a pool tokens equivalent to their stake share, after a specific period of time the users will be able to withdrawal their LDF + staking reward by burning the previously minted pool tokens.  
 
 The pool managers will be able to 
 
